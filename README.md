@@ -12,7 +12,7 @@ The result is output in plain text as in this [sample file](sample.txt)
 * Vagrant VM hosted [here](https://github.com/udacity/fullstack-nanodegree-vm)
   The VM contains Python 2 + Postgres DB
 
-* The `news` database (*not included*) with its 3 main tables `articles`, `authors` and `log`
+* The `news` database (available as zipped SQL [here](https://drive.google.com/file/d/1Qb7tU4hOwPwbqpRTxWPaOZOktgg2hQTd/view?usp=sharing)) with its 3 main tables `articles`, `authors` and `log`
 
 * Several views to be created detailed in the following section
 
